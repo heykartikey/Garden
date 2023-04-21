@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "386101019403",
+    "firebase_url": "https://garden-7cdfa-default-rtdb.firebaseio.com",
+    "project_id": "garden-7cdfa",
+    "storage_bucket": "garden-7cdfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386101019403:android:fcbdfcae8cd82d49c1d80e",
+        "android_client_info": {
+          "package_name": "com.example.garden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386101019403-4ndtgmuiof3r3mc82htf6ct55eqg7pic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.garden",
+            "certificate_hash": "a351d5e6725d1a65594f2c22c7b9a9935a629fcd"
+          }
+        },
+        {
+          "client_id": "386101019403-j7m8nhjd976ovefl5nnf85r5a4e61cls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq_pfCl7Asl4Oj-XM1mw-ayhm2Ya0_LCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386101019403-hogch3t776f21a25u0cvoaha79rncgf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
